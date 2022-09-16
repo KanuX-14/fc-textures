@@ -1,1 +1,4 @@
-Texture pack for FreeCraft. Use it whenever the feel of old Minecraft is needed. Forked from EliasFleckenstein03. Size: 16×16
+Texture pack for Minetest/FreeCraft.
+Use it whenever the feel of old Minecraft is needed.
+Forked from EliasFleckenstein03.
+Size: 16×16

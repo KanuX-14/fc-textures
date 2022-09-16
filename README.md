@@ -1,10 +1,10 @@
 [![ContentDB](https://content.minetest.net/packages/KanuX/freecraft/shields/title/)](https://content.minetest.net/packages/KanuX/freecraft/)
 [![ContentDB](https://content.minetest.net/packages/KanuX/freecraft/shields/downloads/)](https://content.minetest.net/packages/KanuX/freecraft/)
 
-# FreeCraft Textures
+# Alternate FreeCraft Textures
 
 Fork of [EliasFleckenstein03](https://github.com/EliasFleckenstein03/mc-textures) repository.<br>
-Sorted and modified to match with Minetest and FreeCraft textures.
+Sorted and modified to match with Minetest/FreeCraft textures.
 
 ## Installation
 
